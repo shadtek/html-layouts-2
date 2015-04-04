@@ -24,3 +24,8 @@ a {
 	padding-right: 40px;
 	font-weight: 500;
 }
+
+.content-wrapper {
+	display: flex;
+	
+}
