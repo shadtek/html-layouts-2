@@ -11,8 +11,28 @@ html, body {
 }
 
 .section {
-	background: #FFFFFF;
+	background: #FFF;
 	margin: 20px;
 	padding: 20px;
+	font-family: sans-serif;
+	font-weight: 100;
+	line-height: 1.2em;
 }
 
+img {
+	width: auto;
+	height: auto;
+}
+
+.lower {
+	margin-top: 20px;
+}
+
+span {
+	color: #FFF;
+	font-size: 
+}
+
+.red {
+	background: #D0021B;
+}
