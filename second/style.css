@@ -2,22 +2,26 @@ html, body {
 	width: 100%;
 	height: 100%;
 	margin: 0 auto;
+	background: #D8D8D8;
+	font-family: sans-serif;
+	font-weight: 100;
 }
 
 .content {
-	background: #D8D8D8;
-	padding: 20px;
-	height: 95%;
+	padding: 15px;
 }
 
 .section {
 	background: #FFF;
 	margin: 20px;
 	padding: 20px;
-	font-family: sans-serif;
-	font-weight: 100;
-	font-size: 15px;
+
+	font-size: 14px;
 	line-height: 17px;
+}
+
+p {
+	padding-bottom: 20px;
 }
 
 img {
@@ -25,11 +29,16 @@ img {
 	height: auto;
 }
 
-span {
+.button {
 	color: #FFF;
-	font-size: 
+	font-size: 20px;
+	padding: 10px 30px;
+	display: inline;
+	margin-right: 8px;
+	margin-bottom: 20px;
+	margin-top: 8px;
+	clear: left;
 }
-
 
 .red {
 	background: #D0021B;
@@ -43,9 +52,13 @@ span {
 	background: #333333;
 	height: 5%;
 	position: relative;
+	width: 100%;
+
 }
 
 a {
 	color: #FFF;
 	text-decoration: none;
+	padding-right: 30px;
+	float: right;
 }
