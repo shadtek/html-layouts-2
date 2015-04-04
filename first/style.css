@@ -48,3 +48,22 @@ html, body {
 	width: 66.66%;
 	background: #4A90E2;
 }
+
+.footer {
+	background: #4A90E2;
+	height: 100px;
+	margin: 20px 10px;
+	display: flex;
+}
+
+.redBox {
+	width: 25%;
+	background: #D0021B;
+}
+
+.greyBox {
+	position: middle;
+	width: 80%;
+	height: 100%;
+	margin: 0;
+}
