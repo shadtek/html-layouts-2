@@ -11,7 +11,6 @@ html, body {
 	background: #333333;
 	height: 35px;
 	position: relative;
-	width: 100%;
 	display: flex;
 	padding: 20px 20px 20px 40px;
 	align-items: center;
