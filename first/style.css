@@ -1,0 +1,50 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.above-wrapper {
+	display: flex;
+}
+
+.top {
+	width: 100%;
+	height: 100px;
+	margin: 10px;
+}
+
+.red {
+	background: #D0021B;
+}
+
+.blue {
+	background: #4A90E2;
+}
+
+.grey {
+	background: #4A4A4A;
+}
+
+.text-dump {
+	padding: 10px;
+	font-family: Helvetica;
+	color: #4A4A4A;
+	line-height: 25px;
+}
+
+.jumboBox {
+	display: flex;
+	margin: 10px;
+	height: 250px;
+}
+
+.redJb {
+	width: 33.33%;
+	background: #D0021B;
+}
+
+.blueJb {
+	width: 66.66%;
+	background: #4A90E2;
+}
