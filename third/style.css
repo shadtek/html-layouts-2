@@ -7,7 +7,7 @@ html, body {
 	font-weight: 100;
 }
 
-.header-wrapper {
+.plank {
 	background: #333333;
 	height: 35px;
 	position: relative;
@@ -27,5 +27,19 @@ a {
 
 .content-wrapper {
 	display: flex;
-	
+	margin-top: 40px;
+	color: #4A4A4A;
+}
+
+span {
+	margin: 25px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+h1 {
+	font-size: 40px;
 }
